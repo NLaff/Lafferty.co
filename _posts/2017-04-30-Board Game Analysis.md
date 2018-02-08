@@ -1,6 +1,6 @@
 ### Board Game Analysis with Pandas
 
-I've been taking some Python classes through Data Camp (try it free for 2 days [here](https://www.amazon.com/Viticulture-Essential-Edition-Board-Game/dp/B018GRSLK4?SubscriptionId=0N3YSEQ4N1056XPWS4G2&tag=itemtext-boardgamegeek-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B018GRSLK4)). They're designed around teaching Python with data analysis applications, which is exactly what I was looking for. I wanted to apply some of the techniques I had learned on a data set that  was interesting to me, so I started browsing on Kaggle. I found [this](https://www.kaggle.com/mrpantherson/board-game-data), which is aggregated data from Board Game Geek. 
+I've been taking some Python classes through Data Camp. They're designed around teaching Python with data analysis applications, which is exactly what I was looking for. I wanted to apply some of the techniques I had learned on a data set that  was interesting to me, so I started browsing on Kaggle. I found [this](https://www.kaggle.com/mrpantherson/board-game-data), which is aggregated data from Board Game Geek. 
 
 I'll do my best to explain what is going on, mostly to reinforce the lessons with myself. This is a raw notebook file, so some of the graphs do not explain the data well, some are ugly, and some are missing axis labels. 
 
